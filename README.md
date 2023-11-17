@@ -49,7 +49,7 @@ Summarize the typical responsibilities of a project manager and the skill sets n
 
 Compare and contrast different industries, paths, and possible career progressions available to project management professionals  
 
-* [Introduction to Project Management]()
+* [Introduction to Project Management](https://github.com/ansariparvej/IBM_IT_Project_Manager_Professional_Certificate_Coursera/tree/main/Course_1:%20Introduction%20to%20Project%20Management)
 
 
 ### COURSE 2
@@ -63,7 +63,7 @@ Create planning documents and others that help you scope a project, plan project
 
 Apply processes and tools that drive project initiation.  
 
-* [Project Management Foundations, Initiation, and Planning]()
+* [Project Management Foundations, Initiation, and Planning](https://github.com/ansariparvej/IBM_IT_Project_Manager_Professional_Certificate_Coursera/tree/main/Course_2:%20Project%20Management%20Foundations%2C%20Initiation%2C%20and%20Planning)
 
 
 ### COURSE 3
@@ -77,7 +77,7 @@ Perform an end-to-end risk analysis including SWOT analysis, risk register, and 
 
 Create executable risk response strategies to avoid or mitigate threats and exploit or enhance opportunities.
 
-* [Project Lifecycle, Information Sharing, and Risk Management]()
+* [Project Lifecycle, Information Sharing, and Risk Management](https://github.com/ansariparvej/IBM_IT_Project_Manager_Professional_Certificate_Coursera/tree/main/Course_3:%20Project%20Lifecycle%2C%20Information%20Sharing%2C%20and%20Risk%20Management)
 
 
 ### COURSE 4
@@ -91,7 +91,7 @@ Apply leadership skills to get positive project outcomes, build trusting teams, 
 
 Demonstrate increased stakeholder engagement by applying the knowledge and skills to acquire resources and keep stakeholders involved in the project.
 
-* [Project Management Communication, Stakeholders & Leadership]()
+* [Project Management Communication, Stakeholders & Leadership](https://github.com/ansariparvej/IBM_IT_Project_Manager_Professional_Certificate_Coursera/tree/main/Course_4:%20Project%20Management%20Communication%2C%20Stakeholders%20%26%20Leadership)
 
 ### COURSE 5
 ### Information Technology (IT) Fundamentals for Everyone
@@ -104,7 +104,7 @@ Describe how to protect against security threats, address public browsing securi
 
 List the benefits of cloud computing, describe the cloud infrastructure layer, virtual machines, and summarize features of ticketing systems
 
-* [Information Technology (IT) Fundamentals for Everyone]()
+* [Information Technology (IT) Fundamentals for Everyone](https://github.com/ansariparvej/IBM_IT_Project_Manager_Professional_Certificate_Coursera/tree/main/Course_5:%20Information%20Technology%20(IT)%20Fundamentals%20for%20Everyone)
 
 ### COURSE 6
 ### Introduction to Software Engineering
@@ -117,7 +117,7 @@ Outline approaches to application architecture and design, patterns, and deploym
 
 Summarize the skills required in software engineering and describe the career options it provides.
 
-* [Introduction to Software Engineering]()
+* [Introduction to Software Engineering](https://github.com/ansariparvej/IBM_IT_Project_Manager_Professional_Certificate_Coursera/tree/main/Course_6:%20Introduction%20to%20Software%20Engineering)
 
 ### COURSE 7
 ### Introduction to Scrum Master Profession
@@ -130,7 +130,7 @@ Describe opportunities for Scrum Masters in the current work environment to incl
 
 Define certification opportunities in Agile and Scrum to include Scrum Alliance CSM, PMI-ACP, and PMI-DASM. 
 
-* [Introduction to Scrum Master Profession]()
+* [Introduction to Scrum Master Profession](https://github.com/ansariparvej/IBM_IT_Project_Manager_Professional_Certificate_Coursera/tree/main/Course_7:%20Introduction%20to%20Scrum%20Master%20Profession)
 
 ### COURSE 8
 ### Introduction to Agile Development and Scrum
@@ -143,7 +143,7 @@ Create and refine a product backlog using the sprint planning process. Produce p
 
 Create burndown charts to forecast the ability to meet a sprint goal. Use metrics to enhance performance, productivity, and client satisfaction.
 
-* [Introduction to Agile Development and Scrum]()
+* [Introduction to Agile Development and Scrum](https://github.com/ansariparvej/IBM_IT_Project_Manager_Professional_Certificate_Coursera/tree/main/Course_8:%20Introduction%20to%20Agile%20Development%20and%20Scrum)
 
 ### COURSE 9
 ### Project Management Capstone
@@ -156,7 +156,7 @@ Plan a project using adaptive methodologies such as Scrum and Sprints
 
 Create predictive method artefacts such as a work breakdown structure, network diagram, quality and communications plans, and a risk register
 
-* [Project Management Capstone]()
+* [Project Management Capstone](https://github.com/ansariparvej/IBM_IT_Project_Manager_Professional_Certificate_Coursera/tree/main/Course_9:%20Project%20Management%20Capstone)
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -166,12 +166,12 @@ Create predictive method artefacts such as a work breakdown structure, network d
 2. [Project Management Foundations, Initiation, and Planning](https://www.coursera.org/account/accomplishments/verify/897HC2Z74LFW)
 3. [Project Lifecycle, Information Sharing, and Risk Management](https://www.coursera.org/account/accomplishments/verify/ZBP5B65WTJCR)
 4. [Project Management Communication, Stakeholders & Leadership](https://www.coursera.org/account/accomplishments/verify/W5ZNBZT52DME)
-5. [Information Technology (IT) Fundamentals for Everyone]()
-6. [Introduction to Software Engineering]()
-7. [Introduction to Scrum Master Profession]()
-8. [Introduction to Agile Development and Scrum]()
-9. [Project Management Capstone]()
-10. [IBM IT Project Manager Professional Certificate]()
+5. [Information Technology (IT) Fundamentals for Everyone](https://www.coursera.org/account/accomplishments/certificate/E9T9QW8WT7XR)
+6. [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/certificate/532XF29BPBEU)
+7. [Introduction to Scrum Master Profession](https://www.coursera.org/account/accomplishments/certificate/AWXNFVKXLNLY)
+8. [Introduction to Agile Development and Scrum](https://www.coursera.org/account/accomplishments/certificate/Z9A9MHT2LNRS)
+9. [Project Management Capstone](https://www.coursera.org/account/accomplishments/certificate/FYWBVW6W97KA)
+10. [IBM IT Project Manager Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/RYYXH3Q47EQM)
 
 ----------------------------------------------------------------------------------------------------------
 
